@@ -1,2 +1,2 @@
-## SCREENSHOT : 
-![Alt text](image-1.png)
+## Screenshot of website  : 
+!(image-1.png)
